@@ -1,7 +1,8 @@
 streamlit
+ccxt
 pandas
-numpy
-requests
 matplotlib
+mplfinance
+requests
 beautifulsoup4
-yfinance
+
